@@ -61,8 +61,11 @@ function gotHands(results) {
 }
 
 function draw() {
+  push();
+  translate(width, 0);
+  scale(-1, 1); // Flip the video horizontally to correct mirroring
   image(video, 0, 0, width, height);
-  
+  pop();
   for (let i = 0; i < hands.length; i++) {
     let hand = hands[i];
       for (let j = 0; j < hand.keypoints.length; j++) {
