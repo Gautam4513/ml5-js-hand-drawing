@@ -16,7 +16,7 @@ document.querySelector("#canvasClear").addEventListener("click",function (){
 function preload() {
   handPose = ml5.handPose({
   maxHands: 1,
-  flipped: false,
+  flipped: true,
   runtime: "tfjs",
   modelType: "full",
   detectorModelUrl: undefined, //default to use the tf.hub model
