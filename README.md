@@ -27,4 +27,4 @@ This project is a web-based hand-tracking application that allows users to draw 
 
 ### **👨‍💻 Author**  
 🚀 Developed by **Gautam Mandaviya**  
-🔗 [LinkedIn Profile](YOUR_LINKEDIN_PROFILE_LINK_HERE)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/posts/gautam-mandaviya-3b209131b_machinelearning-ml5-p5-activity-7299691879149846528-x0Mo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD90fYBdpvcaVHC_tuVxPfBgH5S0TIqnZM)  
